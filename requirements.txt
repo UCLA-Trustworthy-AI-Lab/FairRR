@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+torch
+sdv
+matplotlib
+seaborn
+scipy
+warnings
